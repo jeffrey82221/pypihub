@@ -113,6 +113,7 @@ UnionRecord(
                                         "Get your key",
                                         "Git",
                                         "Git Clone URL",
+                                        "Git Repository",
                                         "GitHub",
                                         "GitHub Discussions",
                                         "GitHub Pages",
@@ -247,6 +248,7 @@ UnionRecord(
                                         "tracker",
                                         "user_support",
                                         "website",
+                                        "样板",
                                     }
                                 ),
                                 Atomic(Str()),
