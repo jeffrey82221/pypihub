@@ -30,9 +30,11 @@ UnionRecord(
                                 FieldSet(
                                     {
                                         "@theshawwn on Twitter",
+                                        "API Docs",
                                         "API Documentation",
                                         "ASCOM Developer Forum",
                                         "ASCOM Initiative",
+                                        "Administration",
                                         "App Repository",
                                         "Application",
                                         "Author",
@@ -158,6 +160,7 @@ UnionRecord(
                                         "Home-page",
                                         "HomePage",
                                         "Homepage",
+                                        "IBM Community",
                                         "IP Fabric",
                                         "Instagram",
                                         "Issue / Bug Reports",
@@ -282,6 +285,7 @@ UnionRecord(
                                         "source",
                                         "source_code",
                                         "tracker",
+                                        "ud-kanbun",
                                         "url",
                                         "user_support",
                                         "website",
