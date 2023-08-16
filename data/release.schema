@@ -29,6 +29,9 @@ UnionRecord(
                             UniformRecord(
                                 FieldSet(
                                     {
+                                        '"Documentation"',
+                                        '"Issue Tracker"',
+                                        '"Source Code"',
                                         "@theshawwn on Twitter",
                                         "API Docs",
                                         "API Documentation",
@@ -178,6 +181,7 @@ UnionRecord(
                                         "Gitter",
                                         "Gitter Chat",
                                         "Give Directly",
+                                        "Guide",
                                         "Guides & Tutorials",
                                         "HPLT Project",
                                         "Hardrules on GitHub",
@@ -226,6 +230,7 @@ UnionRecord(
                                         "Our Lab!",
                                         "Owner",
                                         "Paid Support Helpdesk",
+                                        "Paper",
                                         "Paracrawl",
                                         "Parent project",
                                         "Patreon",
