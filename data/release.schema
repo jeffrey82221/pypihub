@@ -404,6 +404,7 @@ UnionRecord(
                                         "download",
                                         "download_page",
                                         "downloads",
+                                        "eShard",
                                         "forum",
                                         "funding",
                                         "github",
