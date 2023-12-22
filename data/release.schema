@@ -245,6 +245,7 @@ UnionRecord(
                                         "GitLab",
                                         "Gitbook",
                                         "Github",
+                                        "Github Project",
                                         "Github Repository",
                                         "Github repo",
                                         "Github.io",
