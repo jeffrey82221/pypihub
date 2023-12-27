@@ -554,6 +554,7 @@ UnionRecord(
                                         "package",
                                         "phishingURL",
                                         "pretix Marketplace",
+                                        "project",
                                         "pull_requests",
                                         "pymobiledevice3",
                                         "pypi",
