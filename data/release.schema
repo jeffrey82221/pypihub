@@ -592,6 +592,7 @@ UnionRecord(
                                         "funding",
                                         "github",
                                         "gitter",
+                                        "gwaslab",
                                         "hlpl",
                                         "hlpl_composer-docs",
                                         "hlpl_composer-forum",
