@@ -255,6 +255,7 @@ UnionRecord(
                                         "Feature Request",
                                         "Feedstock",
                                         "First Street Foundation Website",
+                                        "Flower Growth Extension Site",
                                         "Follow Me!",
                                         "For Python Devs",
                                         "For TypeScript Devs",
@@ -431,6 +432,7 @@ UnionRecord(
                                         "PyPI",
                                         "PyPI Releases",
                                         "PyPi",
+                                        "PyPi Profile",
                                         "Pypi",
                                         "Python Python API Documentation",
                                         "QT4W Documentation",
@@ -634,6 +636,7 @@ UnionRecord(
                                         "url",
                                         "user_support",
                                         "website",
+                                        "wiki",
                                         "样板",
                                     }
                                 ),
