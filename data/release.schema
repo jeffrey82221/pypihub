@@ -280,6 +280,7 @@ UnionRecord(
                                         "Get your key",
                                         "Git",
                                         "Git Clone URL",
+                                        "Git Link",
                                         "Git Mirror",
                                         "Git Repository",
                                         "Git Repostitory",
