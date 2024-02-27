@@ -16,6 +16,7 @@ UnionRecord(
                             FieldSet({"last_day", "last_month", "last_week"}),
                             Atomic(Int()),
                         ),
+                        "dynamic": Atomic(Non()),
                         "home_page": Optional(Atomic(Str())),
                         "keywords": Optional(Atomic(Str())),
                         "license": Optional(Atomic(Str())),
@@ -669,6 +670,7 @@ UnionRecord(
                                 Atomic(Str()),
                             )
                         ),
+                        "provides_extra": Atomic(Non()),
                         "release_url": Atomic(Str()),
                         "requires_dist": Optional(Array(Atomic(Str()))),
                         "requires_python": Optional(Atomic(Str())),
