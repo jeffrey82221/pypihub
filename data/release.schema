@@ -632,6 +632,7 @@ UnionRecord(
                                         "citation",
                                         "cloud_watch_logs",
                                         "code",
+                                        "conda-forge",
                                         "continuous integration",
                                         "coverage",
                                         "database",
